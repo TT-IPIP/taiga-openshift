@@ -137,7 +137,7 @@
           }
         ],
         "postCommit": {
-           "script": "./manage.py test"
+           "script": "python manage.py test"
         }
       }
     },
